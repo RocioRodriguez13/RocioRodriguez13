@@ -4,7 +4,7 @@
 
 🌱 Estoy iniciando mi camino en la programación con Python. Apasionada por crear soluciones desde cero, planificando, diseñando e implementando proyectos que resuelvan problemas reales.
 
-📫 If you have an offer, opportunity, or introduction that makes my life more interesting, e-mail me: rorodriguez222@gmail.com
+📫  e-mail me: rorodriguez222@gmail.com
 
 
 
