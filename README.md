@@ -2,9 +2,9 @@
  
 💻 **Aprendiz de Inteligencia Artificial | Explorando el mundo del desarrollo**  
 
-🌱 Estoy iniciando mi camino en la programación con Python. Apasionada por crear soluciones desde cero, planificando, diseñando e implementando proyectos que resuelvan problemas reales.
+🌱 Estoy iniciando mi camino en la programación con Python.
 
-📫  e-mail me: rorodriguez222@gmail.com
+📫  e-mail: rorodriguez222@gmail.com
 
 
 
